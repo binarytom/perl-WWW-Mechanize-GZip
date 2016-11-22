@@ -1,5 +1,8 @@
 Revision history for WWW-Mechanize-GZip
 
+0.120001  2016-11-22
+        - fixed metadata to allow Stratopan to index
+
 0.12    2009-06-24
         - fixed warning on undefined 'content-encoding' - thanks to Edward Smirnov
 

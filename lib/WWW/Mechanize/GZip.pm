@@ -4,7 +4,7 @@ WWW::Mechanize::GZip - tries to fetch webpages with gzip-compression
 
 =head1 VERSION
 
-Version 0.10
+Version 0.10_01_patch
 
 =head1 SYNOPSIS
 
@@ -74,7 +74,7 @@ modify it under the same terms as Perl itself.
 
 package WWW::Mechanize::GZip;
 
-our $VERSION = '0.12';
+our $VERSION = '0.012001';
 
 use strict;
 use warnings;
